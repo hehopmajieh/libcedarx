@@ -1,11 +1,10 @@
-
 #ifndef LIBCEDARX_H
 #define LIBCEDARX_H
 
 #ifdef __cplusplus
 extern "C" {
 #endif
-
+/*
 #ifndef u8
     typedef unsigned char u8;    
 #endif
@@ -44,7 +43,7 @@ extern "C" {
 #ifndef NULL
     #define NULL ((void*)0)
 #endif
-
+*/
 typedef enum CEDARX_RESULT
 {
     CEDARX_RESULT_OK                      = 0, 
